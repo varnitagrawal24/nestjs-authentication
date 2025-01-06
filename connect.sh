@@ -1,0 +1,1 @@
+docker exec -it full-stack-auth-backend bash
